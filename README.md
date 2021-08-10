@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats-rho-self-58.vercel.app/api?username=Rogary)](https://github.com/Rogary/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-rho-self-58.vercel.app/api/top-langs/?username=Rogary)](https://github.com/Rogary/github-readme-stats)
+
+but i am a Java programming engineer
 <!--
 **Rogary/Rogary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
